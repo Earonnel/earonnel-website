@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# Add a sitemap URL after selecting and publishing your final domain.
+Sitemap: https://earonnel.com/sitemap.xml
